@@ -1,0 +1,56 @@
+Check List
+
+
+Research bases
+
+-- Django +
+-- Bots + 
+-- Microservices +
+-- PostgreSQL-
+-- API GATEWAY-
+-- Marketing basico-
+
+
+
+
+Researched data:
+
+
+
+
+DJANGO:
+
+video de django basico: 
+url: https://youtu.be/srkMntDfil4?si=3uWG9Or4j2dbKkIa
+
+
+Django es un Framework escrito en python, que utiliza como gestor de paquetes y dependencias a pip, el cual tiene como patron 
+de arquitectura MTV models,templates, views, en el cual esta estructurado como    
+
+crear un proyecto django:
+    django-admin statrproject <name-project>
+ 
+para realizar las migraciones necesarias eb el proyecto django:
+    python manage.py migrate
+
+Para correr el proyecto django:
+    python manage.py runserver
+
+para crear la carpeta que tendra todas las plantillas:
+    python manage.py startapp <name-app>
+
+Se edita el settings.py en el installed-apps en el cual se indica donde se estan alojando las plantillas
+
+Se debe de editar el archivo url.py para incluir las rutas de la app
+
+
+BOTS:
+
+link que es un chatbot whatsapp y como implementarlo: https://www.zendesk.com.mx/blog/como-funciona-chatbot-whatsapp/#:~:text=Un%20chatbot%20en%20WhatsApp%20utiliza,y%20responde%20de%20forma%20automática.
+link explicacion en youtube: https://www.youtube.com/watch?v=kxe0WOkGOvE
+
+MICROSERVICES:
+link explicacion: https://www.youtube.com/watch?v=2sFczigWppk
+
+
+
